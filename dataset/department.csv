@@ -1,0 +1,17 @@
+﻿department_id,department_name,manager_id,location
+101,Human Resources,2,New York
+102,IT Department,5,San Francisco
+103,Sales and Marketing,8,Chicago
+104,Finance,3,London
+105,Research and Development,6,Boston
+106,Customer Support,10,Miami
+107,Legal,7,Dallas
+108,Operations,9,Los Angeles
+109,Procurement,11,Washington
+110,Business Development,12,Atlanta
+111,Logistics,13,Seattle
+112,Administration,14,Denver
+113,Public Relations,15,Austin
+114,Product Management,16,Phoenix
+115,Training and Development,17,Orlando
+,,,

@@ -1,0 +1,21 @@
+﻿project_id,project_name,department_id,start_date,end_date,budget,project_manager_ID,status
+1,Employee Database System,101,2023-01-15,2023-06-30,50000,2,Completed
+2,Website Redesign,102,2023-03-01,2023-09-30,120000,5,Ongoing
+3,Marketing Campaign,103,2023-02-20,2023-08-15,80000,8,Completed
+4,Mobile App Development,102,2023-05-10,2023-11-15,200000,6,Ongoing
+5,HR Software Implementation,101,2023-07-01,2023-12-31,90000,2,Ongoing
+6,New Product Launch,103,2023-06-05,2023-12-20,150000,10,Completed
+7,Cloud Migration,102,2023-08-15,2024-03-01,250000,5,Ongoing
+8,International Expansion,103,2023-04-01,2023-10-31,180000,7,Completed
+9,Supply Chain Optimization,101,2023-09-10,2024-04-30,120000,9,Ongoing
+10,Data Analytics Platform,102,2023-10-01,2024-02-28,220000,6,Ongoing
+11,Customer Support Portal,106,2024-01-10,2024-06-30,100000,10,Not Started
+12,Cybersecurity Overhaul,102,2024-02-01,2024-08-01,150000,5,Not Started
+13,Employee Wellness Program,101,2024-03-01,2024-09-30,70000,2,Ongoing
+14,Digital Marketing Strategy,103,2024-01-15,2024-07-31,95000,8,Completed
+15,Automation of Processes,102,2024-04-10,2024-12-31,130000,6,Not Started
+16,Global Hiring Initiative,101,2024-02-20,2024-10-31,120000,2,Ongoing
+17,New CRM System,101,2024-06-01,2024-12-15,85000,9,Not Started
+18,Green Energy Project,105,2023-07-15,2024-01-31,300000,6,Ongoing
+19,Big Data Integration,102,2024-05-01,2024-12-01,250000,5,Not Started
+20,Internal Training Portal,101,2024-03-15,2024-09-15,45000,2,Ongoing
